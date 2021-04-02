@@ -21,8 +21,10 @@
 ---------------
 
 <p align="center">
-    <div display="flex"><img src="https://github-readme-stats.vercel.app/api?username=devboryung&count_private=true&show_icons=true&theme=highcontrast&icon_color=f7ae40"> </div>
-    <div display="flex"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devboryung&layout=compact&theme=highcontrast"></div>
+    <div display="flex">
+      <img src="https://github-readme-stats.vercel.app/api?username=devboryung&count_private=true&show_icons=true&theme=highcontrast&icon_color=f7ae40">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devboryung&layout=compact&theme=highcontrast">
+</div>
 </p>
 
 
