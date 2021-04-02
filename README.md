@@ -2,8 +2,9 @@
 ![header](https://capsule-render.vercel.app/api?type=Cylinder&color=auto&height=300&section=header&text=Boryung%20Kang&fontSize=90&)
 
 ---
-<p align="center">
+
 ## What I learned
+<p align="center">
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>  
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
@@ -15,7 +16,9 @@
 ---
 
 <p align="center">
-![boryung's GitHub stats](https://github-readme-stats.vercel.app/api?username=devboryung&count_private=true&show_icons=true&theme=highcontrast&icon_color=f7ae40)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devboryung&layout=compact&theme=highcontrast)
+   <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=devboryung&count_private=true&show_icons=true&theme=highcontrast&icon_color=f7ae40">
+    <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=devboryung&layout=compact&theme=highcontrast">
 </p>
 
 ---
