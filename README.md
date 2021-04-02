@@ -23,7 +23,7 @@
 <p align="center">
    <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api?username=devboryung&count_private=true&show_icons=true&theme=highcontrast&icon_color=f7ae40">
-    <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=devboryung&layout=compact&theme=highcontrast">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devboryung&layout=compact&theme=highcontrast">
 </p>
 
 
