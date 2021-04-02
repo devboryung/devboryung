@@ -1,11 +1,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=Cylinder&color=auto&height=300&section=header&text=Boryung%20Kang&fontSize=90&)
 
-<p align="center">
-   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=devboryung&count_private=true&show_icons=true&theme=highcontrast&icon_color=f7ae40">
-    <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=devboryung&layout=compact&theme=highcontrast">
-</p>
+
 
 
 
@@ -24,5 +20,10 @@
 
 ---------------
 
+<p align="center">
+   <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=devboryung&count_private=true&show_icons=true&theme=highcontrast&icon_color=f7ae40">
+    <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=devboryung&layout=compact&theme=highcontrast">
 </p>
+
 
