@@ -25,9 +25,11 @@
 </p>
 
 
+---------------
+
 <p align="center">
-  😊Contact.<br>
-  <a href="https://www.notion.so/fe7317161fd744e58ce1c32287fc413b"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
-  
+  😊Contact<br>
+  <a href="https://www.notion.so/fe7317161fd744e58ce1c32287fc413b"><img src="https://img.shields.io/badge/Portfolio-ffffff?style=flat-square&logo=Notion&logoColor=black"/></a>
+   <a href="devboryung@naver.com"><img src="https://img.shields.io/badge/Email-03C75A?style=flat-square&logo=Naver&logoColor=white"/></a>
   
  </p>
