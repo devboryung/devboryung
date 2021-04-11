@@ -28,7 +28,7 @@
 ---------------
 
 <p align="center">
-#  😊Contact<br>
+# <div align="center"> 😊Contact </div><br>
   <a href="https://www.notion.so/fe7317161fd744e58ce1c32287fc413b"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
    <devboryung@naver.com><img src="https://img.shields.io/badge/Email-03C75A?style=flat-square&logo=Naver&logoColor=white"/>
   
